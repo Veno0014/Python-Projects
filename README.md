@@ -1,2 +1,2 @@
 # pythonprojects
-All python projects for school and for learning
+All python projects for school and personal projects
